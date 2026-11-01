@@ -1,0 +1,34 @@
+﻿PROJET : DIAG-LINE
+Titre : Diagnostic de performance et amélioration technico-economique
+Type : Projet de portfolio base sur des donnees simulees
+Secteur : Production et conditionnement de boissons
+
+OBJECTIF
+Analyser les pertes de production, identifier les equipements critiques,
+examiner les causes possibles et proposer un plan d'amelioration chiffre.
+
+EQUIPEMENTS
+M01 : Depalettiseur
+M02 : Rinceuse
+M03 : Remplisseuse
+M04 : Boucheuse
+M05 : Convoyeur motorise
+M06 : Etiqueteuse et conditionnement
+
+AXES D'ANALYSE
+- TRS / OEE et pertes de production
+- Arrets et Pareto des pertes
+- Fiabilite et maintenance
+- Diagnostic electromecanique cible
+- Evaluation economique des actions
+- Plan d'amelioration priorise
+
+OUTILS PREVUS
+Python, Pandas, SQL, SQLite et Power BI.
+SolidWorks pourra etre utilise si une etude de conception est justifiee.
+
+REGLE DE RIGUEUR
+Les donnees et resultats sont simules. Toute cause technique reste une
+hypothese tant qu'elle n'est pas confirmee par une inspection ou des
+mesures de terrain. Les gains sont des estimations, pas des resultats
+obtenus dans une usine reelle.

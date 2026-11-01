@@ -1,0 +1,17 @@
+HYPOTHESES DU JEU D'ALARMES SIMULEES
+
+1. Toutes les alarmes sont des événements simulés ; aucune ne provient d'un automate réel.
+2. Une alarme est générée pour chaque arrêt du scénario C, horodatée au début de l'arrêt.
+   Cette association sert à relier les événements du scénario et ne prouve pas que
+   l'alarme a réellement déclenché l'arrêt, ni que le symptôme est une cause confirmée.
+3. La durée de l'alarme est une hypothèse en secondes, indépendante de la durée d'arrêt.
+4. Une alarme supplémentaire est générée pour chaque mesure dont le statut est
+   « alerte » ou « à vérifier ». Le champ source_mesure_id assure la traçabilité.
+5. Ces alarmes de condition ne sont pas rattachées à un arrêt sur la seule base
+   d'une proximité temporelle. Leur champ arret_id reste vide.
+6. Les références et seuils de condition sont internes au scénario simulé et
+   ne sont ni des limites constructeur ni des seuils normatifs.
+7. Les niveaux de sévérité sont des catégories de simulation.
+8. Les valeurs du fichier ne constituent pas des historiques d'exploitation réels.
+9. Graine pseudo-aléatoire fixe : 20261019.
+10. Les fichiers sources et la base SQLite ne sont pas modifiés.

@@ -1,0 +1,26 @@
+HYPOTHESES DU JEU DE MAINTENANCE SIMULEE — V2
+
+1. Toutes les lignes sont des données simulées, pas des historiques réels.
+
+2. Pour les arrêts du scénario C, l'intervalle de l'intervention corrective
+   est supposé égal à l'intervalle de l'arrêt associé. Cette simplification
+   ne prouve pas que toute la durée d'arrêt correspond au travail effectif
+   des techniciens.
+
+3. Les coûts de main-d'oeuvre et de pièces sont des estimations forfaitaires
+   simulées par équipement, en FCFA. Ils ne sont ni mesurés ni des devis.
+
+4. Les interventions préexistantes conservent leurs dates au jour près.
+   Leur durée précise et leurs coûts restent non renseignés.
+
+5. Aucun arrêt n'est artificiellement associé aux interventions préexistantes.
+
+6. Aucun lien causal entre intervention et évolution ultérieure des arrêts
+   n'est affirmé.
+
+7. La colonne duree_intervention_min des interventions associées à un arrêt
+   découle de l'hypothèse de simulation et reprend sa durée. Elle ne constitue
+   pas une mesure indépendante du temps réellement passé en maintenance.
+
+8. Le brouillon maintenance_simulee.csv et la base SQLite sont conservés
+   sans modification.

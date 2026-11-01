@@ -1,0 +1,7 @@
+﻿equipement_id;nom;fonction;fabricant;puissance_kw;vitesse_nominale_rpm;criticite_initiale;date_mise_service;capacite_theorique_bph;statut_donnee
+M01;Depalettiseur;Preparation des palettes;Non renseigne - simulation;;;A evaluer;;7500;hypothese_simulee
+M02;Rinceuse;Rincage des bouteilles;Non renseigne - simulation;;;A evaluer;;8000;hypothese_simulee
+M03;Remplisseuse;Remplissage volumetrique;Non renseigne - simulation;;;A evaluer;;7000;hypothese_simulee
+M04;Boucheuse;Pose des bouchons a vis;Non renseigne - simulation;;;A evaluer;;7000;hypothese_simulee
+M05;Convoyeur motorise;Transfert des bouteilles;Non renseigne - simulation;;;A evaluer;;7500;hypothese_simulee
+M06;Etiquetage-conditionnement;Etiquetage et filmage;Non renseigne - simulation;;;A evaluer;;6500;hypothese_simulee

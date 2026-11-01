@@ -1,0 +1,14 @@
+﻿__pycache__/
+*.py[cod]
+*.bak
+*.log
+.env
+credentials.json
+
+# Bases de données locales et sauvegardes
+database/*.db
+database/*.sqlite
+database/*.sqlite3
+
+# Sauvegardes de travail
+backup*/

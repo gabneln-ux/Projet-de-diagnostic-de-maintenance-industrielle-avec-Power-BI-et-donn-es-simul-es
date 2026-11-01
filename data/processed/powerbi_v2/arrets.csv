@@ -1,0 +1,59 @@
+﻿arret_id;debut;fin;equipement_id;categorie;symptome;cause_declaree;duree_min;impact_production;statut_donnee;profil_fiabilite;mois_simulation
+SC-AR00036;2026-07-02 12:33:00;2026-07-02 12:54:00;M05;Panne simulee;Accumulation;Accumulation ou blocage de convoyage;21;A estimer;hypothese_simulee;degradation_progressive;2026-07
+SC-AR00001;2026-07-03 20:10:00;2026-07-03 20:32:00;M01;Panne simulee;Blocage;Blocage de palettes;22;A estimer;hypothese_simulee;stable;2026-07
+SC-AR00048;2026-07-04 07:18:00;2026-07-04 07:44:00;M06;Panne simulee;Etiquetage;Defaut d'etiquetage;26;A estimer;hypothese_simulee;amelioration_simulee;2026-07
+SC-AR00006;2026-07-04 14:37:00;2026-07-04 14:42:00;M01;Panne simulee;Capteur;Defaut de capteur;5;A estimer;hypothese_simulee;stable;2026-07
+SC-AR00042;2026-07-04 16:47:00;2026-07-04 17:47:00;M05;Panne simulee;Transmission;Usure ou defaut de transmission;60;A estimer;hypothese_simulee;degradation_progressive;2026-07
+SC-AR00019;2026-07-07 08:15:00;2026-07-07 08:48:00;M03;Panne simulee;Dosage;Derive de dosage ou de remplissage;33;A estimer;hypothese_simulee;degradation_progressive;2026-07
+SC-AR00049;2026-07-08 10:36:00;2026-07-08 10:58:00;M06;Panne simulee;Etiquetage;Defaut d'etiquetage;22;A estimer;hypothese_simulee;amelioration_simulee;2026-07
+SC-AR00045;2026-07-13 09:39:00;2026-07-13 09:47:00;M05;Panne simulee;Synchronisation;Defaut de detection ou de synchronisation;8;A estimer;hypothese_simulee;degradation_progressive;2026-07
+SC-AR00002;2026-07-15 13:27:00;2026-07-15 13:45:00;M01;Panne simulee;Blocage;Blocage de palettes;18;A estimer;hypothese_simulee;stable;2026-07
+SC-AR00029;2026-07-15 19:48:00;2026-07-15 19:55:00;M04;Panne simulee;Bouchage;Mauvais positionnement du bouchon;7;A estimer;hypothese_simulee;amelioration_simulee;2026-07
+SC-AR00016;2026-07-16 07:42:00;2026-07-16 07:55:00;M02;Panne simulee;Capteur;Defaut de capteur;13;A estimer;hypothese_simulee;stable;2026-07
+SC-AR00011;2026-07-16 18:50:00;2026-07-16 19:06:00;M02;Panne simulee;Obstruction;Buse obstruee;16;A estimer;hypothese_simulee;stable;2026-07
+SC-AR00025;2026-07-17 13:24:00;2026-07-17 13:54:00;M03;Panne simulee;Bourrage;Bourrage ou defaut de transfert;30;A estimer;hypothese_simulee;degradation_progressive;2026-07
+SC-AR00028;2026-07-18 12:39:00;2026-07-18 12:47:00;M04;Panne simulee;Bouchage;Mauvais positionnement du bouchon;8;A estimer;hypothese_simulee;amelioration_simulee;2026-07
+SC-AR00009;2026-07-18 16:18:00;2026-07-18 17:02:00;M01;Panne simulee;Transfert;Defaut de prise ou de transfert;44;A estimer;hypothese_simulee;stable;2026-07
+SC-AR00056;2026-07-27 08:42:00;2026-07-27 09:06:00;M06;Panne simulee;Reglage;Defaut de capteur ou de reglage;24;A estimer;hypothese_simulee;amelioration_simulee;2026-07
+SC-AR00032;2026-07-28 11:45:00;2026-07-28 12:35:00;M04;Panne simulee;Usure;Usure de la tete de bouchage;50;A estimer;hypothese_simulee;amelioration_simulee;2026-07
+SC-AR00034;2026-07-28 18:33:00;2026-07-28 18:51:00;M04;Panne simulee;Alimentation;Defaut d'alimentation en bouchons;18;A estimer;hypothese_simulee;amelioration_simulee;2026-07
+SC-AR00053;2026-07-30 20:13:00;2026-07-30 20:29:00;M06;Panne simulee;Bourrage;Bourrage du conditionnement sous film;16;A estimer;hypothese_simulee;amelioration_simulee;2026-07
+SC-AR00037;2026-08-04 14:39:00;2026-08-04 14:55:00;M05;Panne simulee;Accumulation;Accumulation ou blocage de convoyage;16;A estimer;hypothese_simulee;degradation_progressive;2026-08
+SC-AR00012;2026-08-05 13:26:00;2026-08-05 13:44:00;M02;Panne simulee;Obstruction;Buse obstruee;18;A estimer;hypothese_simulee;stable;2026-08
+SC-AR00020;2026-08-08 09:08:00;2026-08-08 09:37:00;M03;Panne simulee;Dosage;Derive de dosage ou de remplissage;29;A estimer;hypothese_simulee;degradation_progressive;2026-08
+SC-AR00054;2026-08-10 06:06:00;2026-08-10 06:23:00;M06;Panne simulee;Bourrage;Bourrage du conditionnement sous film;17;A estimer;hypothese_simulee;amelioration_simulee;2026-08
+SC-AR00035;2026-08-10 17:43:00;2026-08-10 17:56:00;M04;Panne simulee;Alimentation;Defaut d'alimentation en bouchons;13;A estimer;hypothese_simulee;amelioration_simulee;2026-08
+SC-AR00004;2026-08-11 12:04:00;2026-08-11 12:19:00;M01;Panne simulee;Blocage;Blocage de palettes;15;A estimer;hypothese_simulee;stable;2026-08
+SC-AR00038;2026-08-13 19:08:00;2026-08-13 19:28:00;M05;Panne simulee;Accumulation;Accumulation ou blocage de convoyage;20;A estimer;hypothese_simulee;degradation_progressive;2026-08
+SC-AR00051;2026-08-14 15:43:00;2026-08-14 15:51:00;M06;Panne simulee;Etiquetage;Defaut d'etiquetage;8;A estimer;hypothese_simulee;amelioration_simulee;2026-08
+SC-AR00007;2026-08-14 21:34:00;2026-08-14 21:47:00;M01;Panne simulee;Capteur;Defaut de capteur;13;A estimer;hypothese_simulee;stable;2026-08
+SC-AR00017;2026-08-15 07:52:00;2026-08-15 08:07:00;M02;Panne simulee;Capteur;Defaut de capteur;15;A estimer;hypothese_simulee;stable;2026-08
+SC-AR00050;2026-08-18 14:20:00;2026-08-18 14:38:00;M06;Panne simulee;Etiquetage;Defaut d'etiquetage;18;A estimer;hypothese_simulee;amelioration_simulee;2026-08
+SC-AR00030;2026-08-20 19:15:00;2026-08-20 19:23:00;M04;Panne simulee;Bouchage;Mauvais positionnement du bouchon;8;A estimer;hypothese_simulee;amelioration_simulee;2026-08
+SC-AR00043;2026-08-22 11:45:00;2026-08-22 12:53:00;M05;Panne simulee;Transmission;Usure ou defaut de transmission;68;A estimer;hypothese_simulee;degradation_progressive;2026-08
+SC-AR00046;2026-08-24 12:26:00;2026-08-24 12:44:00;M05;Panne simulee;Synchronisation;Defaut de detection ou de synchronisation;18;A estimer;hypothese_simulee;degradation_progressive;2026-08
+SC-AR00023;2026-08-29 09:01:00;2026-08-29 09:42:00;M03;Panne simulee;Etancheite;Defaut de vanne ou de joint;41;A estimer;hypothese_simulee;degradation_progressive;2026-08
+SC-AR00033;2026-08-29 16:55:00;2026-08-29 17:33:00;M04;Panne simulee;Usure;Usure de la tete de bouchage;38;A estimer;hypothese_simulee;amelioration_simulee;2026-08
+SC-AR00057;2026-08-31 06:40:00;2026-08-31 06:52:00;M06;Panne simulee;Reglage;Defaut de capteur ou de reglage;12;A estimer;hypothese_simulee;amelioration_simulee;2026-08
+SC-AR00003;2026-08-31 20:09:00;2026-08-31 20:30:00;M01;Panne simulee;Blocage;Blocage de palettes;21;A estimer;hypothese_simulee;stable;2026-08
+SC-AR00018;2026-09-01 11:38:00;2026-09-01 11:45:00;M02;Panne simulee;Capteur;Defaut de capteur;7;A estimer;hypothese_simulee;stable;2026-09
+SC-AR00041;2026-09-02 07:45:00;2026-09-02 07:58:00;M05;Panne simulee;Accumulation;Accumulation ou blocage de convoyage;13;A estimer;hypothese_simulee;degradation_progressive;2026-09
+SC-AR00026;2026-09-03 10:54:00;2026-09-03 11:17:00;M03;Panne simulee;Bourrage;Bourrage ou defaut de transfert;23;A estimer;hypothese_simulee;degradation_progressive;2026-09
+SC-AR00015;2026-09-03 21:05:00;2026-09-03 21:24:00;M02;Panne simulee;Pression;Defaut de pompe ou pression insuffisante;19;A estimer;hypothese_simulee;stable;2026-09
+SC-AR00021;2026-09-05 17:22:00;2026-09-05 17:48:00;M03;Panne simulee;Dosage;Derive de dosage ou de remplissage;26;A estimer;hypothese_simulee;degradation_progressive;2026-09
+SC-AR00022;2026-09-07 12:51:00;2026-09-07 13:11:00;M03;Panne simulee;Dosage;Derive de dosage ou de remplissage;20;A estimer;hypothese_simulee;degradation_progressive;2026-09
+SC-AR00058;2026-09-08 15:31:00;2026-09-08 15:44:00;M06;Panne simulee;Reglage;Defaut de capteur ou de reglage;13;A estimer;hypothese_simulee;amelioration_simulee;2026-09
+SC-AR00055;2026-09-11 06:44:00;2026-09-11 07:24:00;M06;Panne simulee;Bourrage;Bourrage du conditionnement sous film;40;A estimer;hypothese_simulee;amelioration_simulee;2026-09
+SC-AR00047;2026-09-12 14:35:00;2026-09-12 14:56:00;M05;Panne simulee;Synchronisation;Defaut de detection ou de synchronisation;21;A estimer;hypothese_simulee;degradation_progressive;2026-09
+SC-AR00052;2026-09-15 12:00:00;2026-09-15 12:26:00;M06;Panne simulee;Etiquetage;Defaut d'etiquetage;26;A estimer;hypothese_simulee;amelioration_simulee;2026-09
+SC-AR00008;2026-09-15 16:10:00;2026-09-15 16:24:00;M01;Panne simulee;Capteur;Defaut de capteur;14;A estimer;hypothese_simulee;stable;2026-09
+SC-AR00013;2026-09-16 08:35:00;2026-09-16 08:59:00;M02;Panne simulee;Obstruction;Buse obstruee;24;A estimer;hypothese_simulee;stable;2026-09
+SC-AR00024;2026-09-17 15:16:00;2026-09-17 16:16:00;M03;Panne simulee;Etancheite;Defaut de vanne ou de joint;60;A estimer;hypothese_simulee;degradation_progressive;2026-09
+SC-AR00039;2026-09-17 17:48:00;2026-09-17 17:56:00;M05;Panne simulee;Accumulation;Accumulation ou blocage de convoyage;8;A estimer;hypothese_simulee;degradation_progressive;2026-09
+SC-AR00010;2026-09-17 20:05:00;2026-09-17 20:47:00;M01;Panne simulee;Transfert;Defaut de prise ou de transfert;42;A estimer;hypothese_simulee;stable;2026-09
+SC-AR00014;2026-09-24 08:52:00;2026-09-24 08:58:00;M02;Panne simulee;Obstruction;Buse obstruee;6;A estimer;hypothese_simulee;stable;2026-09
+SC-AR00040;2026-09-24 14:47:00;2026-09-24 15:17:00;M05;Panne simulee;Accumulation;Accumulation ou blocage de convoyage;30;A estimer;hypothese_simulee;degradation_progressive;2026-09
+SC-AR00005;2026-09-26 08:39:00;2026-09-26 08:55:00;M01;Panne simulee;Blocage;Blocage de palettes;16;A estimer;hypothese_simulee;stable;2026-09
+SC-AR00031;2026-09-26 16:04:00;2026-09-26 16:13:00;M04;Panne simulee;Bouchage;Mauvais positionnement du bouchon;9;A estimer;hypothese_simulee;amelioration_simulee;2026-09
+SC-AR00027;2026-09-29 20:49:00;2026-09-29 21:16:00;M03;Panne simulee;Bourrage;Bourrage ou defaut de transfert;27;A estimer;hypothese_simulee;degradation_progressive;2026-09
+SC-AR00044;2026-09-30 11:27:00;2026-09-30 12:02:00;M05;Panne simulee;Transmission;Usure ou defaut de transmission;35;A estimer;hypothese_simulee;degradation_progressive;2026-09
