@@ -1,4 +1,4 @@
-﻿# DIAG-LINE — Diagnostic de maintenance industrielle
+# DIAG-LINE — Diagnostic de maintenance industrielle
 
 ## Présentation
 
@@ -26,7 +26,7 @@ Quels équipements et quelles défaillances méritent une attention prioritaire,
 
 ## Rapport Power BI
 
-Le fichier `powerbi/deee.pbix` contient le rapport interactif.
+Le fichier `powerbi/final.pbix` contient le rapport interactif.
 
 ## Données et limites
 
